@@ -1,7 +1,7 @@
 # Pr-cticas
 Pequeños proyectos para familiarizarse con javaScript + CSS + HTML
 
-La verdera función del juego "Mapa del tesoro" es la utilización de la siguiente linea : 
+La verdadera función del juego "Mapa del tesoro" es la utilización de la siguiente linea : 
 <script type="text/javascript" language="Javascript">
       document.oncontextmenu = function(){return false}
                       </script>
